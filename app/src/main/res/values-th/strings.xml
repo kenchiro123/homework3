@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="don_t_have_an_account_register">ยังไม่มีบัญชีผู้ใช้งาน? สมัครเลย</string>
+    <string name="e_mail">อีเมล</string>
+    <string name="login">ลงชื่อเข้าใช้งาน</string>
+    <string name="login_to_your_account">ลงชื่อเข้าสู่บัญชีของคุณ</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="login_failed">ล็อคอินล้มเหลว</string>
+    <string name="login_success">ล็อคอินถูกต้อง</string>
+</resources>
